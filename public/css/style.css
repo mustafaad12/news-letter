@@ -1,0 +1,19 @@
+*{
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.head{
+  padding: 7% 10%;
+  background-color: #F0F0CB;
+}
+
+.head h1{
+  font-size: 3.5rem;
+  margin-bottom: 20px;
+}
+
+.head p{
+  font-size: 1.5rem;
+}
